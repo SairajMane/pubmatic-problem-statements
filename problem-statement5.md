@@ -13,10 +13,10 @@ The Social Media Trend Monitor is a program designed to track popular content su
 - Includes additional links for users to explore further information on trending topics.
 
 ## Usage
-- Upon running the program, it will start monitoring the specified social media platforms for new music releases, TV shows, and trending news.
+- [ ] Upon running the program, it will start monitoring the specified social media platforms for new music releases, TV shows, and trending news.
 
-- If a particular item starts gaining popularity, you will receive an alert or message indicating the trend.
+- [ ] If a particular item starts gaining popularity, you will receive an alert or message indicating the trend.
 
-- At the end of each day or hour (depending on your configuration), the program will provide a summary of the top 5-10 trending news items.
+- [ ] At the end of each day or hour (depending on your configuration), the program will provide a summary of the top 5-10 trending news items.
 
-- To explore more information about a specific trending topic, follow the provided links.
+- [ ] To explore more information about a specific trending topic, follow the provided links.
